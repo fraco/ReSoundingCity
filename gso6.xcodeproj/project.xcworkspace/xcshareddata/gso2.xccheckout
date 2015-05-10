@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D985894-7E8C-4EF8-B36F-7DAF139FE9E8</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>401A4D5AEBE32ECF2624FD6C4CE1AE88BC7CAD59</key>
+		<string>https://github.com/rezaali/ofxGenerative.git</string>
+		<key>B98E3CFEC6501A75CC8123C65E3620511AA66D21</key>
+		<string>https://github.com/obviousjim/ofxDelaunay.git</string>
+		<key>FFD5D0DD19F94AF7F27ED4AFCCFA24A4ED3389BE</key>
+		<string>https://github.com/rezaali/ofxMesh.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>401A4D5AEBE32ECF2624FD6C4CE1AE88BC7CAD59</key>
+		<string>ofxGenerative/</string>
+		<key>B98E3CFEC6501A75CC8123C65E3620511AA66D21</key>
+		<string>ofxDelaunay/</string>
+		<key>FFD5D0DD19F94AF7F27ED4AFCCFA24A4ED3389BE</key>
+		<string>ofxMesh/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rezaali/ofxMesh.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FFD5D0DD19F94AF7F27ED4AFCCFA24A4ED3389BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B98E3CFEC6501A75CC8123C65E3620511AA66D21</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxDelaunay</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>401A4D5AEBE32ECF2624FD6C4CE1AE88BC7CAD59</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxGenerative</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FFD5D0DD19F94AF7F27ED4AFCCFA24A4ED3389BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMesh</string>
+		</dict>
+	</array>
+</dict>
+</plist>
